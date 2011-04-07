@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+<string name="settings">Einstellungen</string>
+    <string name="add_new_sms">Neue SMS HinzufÃ¼gen</string>
+    <string name="save_new_timedsms">Speichern</string>
+    <string name="string_label_1">Person fÃ¼r Benachrichtung auswÃ¤hlen</string>
+    <string name="chose_time">WÃ¤hle Zeit</string>
+    <string name="chose_date">WÃ¤hle Datum</string>
+    <string name="message">Nachricht</string>
+<string name="app_name">TimedSMS</string>
+    <string name="select_contact">...</string>
+</resources>

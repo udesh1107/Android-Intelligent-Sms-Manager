@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="string_label_1">Enter the phone number of recipient</string>
+    <string name="select_contact">Contacts</string>
+    <string name="save_new_timedsms">Save new TimedSMS</string>
+    <string name="chose_date">Chose Date</string>
+    <string name="chose_time">Chose Time</string>
+    <string name="settings">Settings</string>
+    <string name="add_new_sms">Add New SMS</string>
+    <string name="sms_notes">Administrator</string>
+    <string name="sms_backup">SMS backup</string>
+    <string name="password">PASSWORD</string>
+    <string name="self_destruct">Login</string>
+    <string name="ui_status_label">SMS Backup</string>
+    
+    
+    <string name="app_name">INTELLIGENT SMS MANAGER</string>
+<string name="message">Message</string>
+</resources>
